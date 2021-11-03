@@ -1,0 +1,12 @@
+E:\Archivos\Gestor de Asistencia\Biblioteca\bin\Debug\Biblioteca.dll
+E:\Archivos\Gestor de Asistencia\Biblioteca\bin\Debug\Biblioteca.pdb
+E:\Archivos\Gestor de Asistencia\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+E:\Archivos\Gestor de Asistencia\Biblioteca\obj\Debug\Biblioteca.dll
+E:\Archivos\Gestor de Asistencia\Biblioteca\obj\Debug\Biblioteca.pdb
+F:\Cursos Youtube\C#\Gestor de Asistencia\Biblioteca\bin\Debug\Biblioteca.dll
+F:\Cursos Youtube\C#\Gestor de Asistencia\Biblioteca\bin\Debug\Biblioteca.pdb
+F:\Cursos Youtube\C#\Gestor de Asistencia\Biblioteca\obj\Debug\Biblioteca.csproj.ResolveComReference.cache
+F:\Cursos Youtube\C#\Gestor de Asistencia\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+F:\Cursos Youtube\C#\Gestor de Asistencia\Biblioteca\obj\Debug\Biblioteca.dll
+F:\Cursos Youtube\C#\Gestor de Asistencia\Biblioteca\obj\Debug\Biblioteca.pdb
+F:\Cursos Youtube\C#\Gestor de Asistencia\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache

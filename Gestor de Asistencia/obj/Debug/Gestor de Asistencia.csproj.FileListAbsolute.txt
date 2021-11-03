@@ -1,0 +1,31 @@
+E:\Archivos\Gestor de Asistencia\Gestor de Asistencia\bin\Debug\Gestor de Asistencia.exe.config
+E:\Archivos\Gestor de Asistencia\Gestor de Asistencia\bin\Debug\Gestor de Asistencia.exe
+E:\Archivos\Gestor de Asistencia\Gestor de Asistencia\bin\Debug\Gestor de Asistencia.pdb
+E:\Archivos\Gestor de Asistencia\Gestor de Asistencia\bin\Debug\Biblioteca.dll
+E:\Archivos\Gestor de Asistencia\Gestor de Asistencia\bin\Debug\Biblioteca.pdb
+E:\Archivos\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor de Asistencia.csprojAssemblyReference.cache
+E:\Archivos\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor_de_Asistencia.FrmGestorAsistencia.resources
+E:\Archivos\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor_de_Asistencia.FrmGestorFeriados.resources
+E:\Archivos\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor_de_Asistencia.FrmGestorIntegrantes.resources
+E:\Archivos\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor_de_Asistencia.Properties.Resources.resources
+E:\Archivos\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor de Asistencia.csproj.GenerateResource.cache
+E:\Archivos\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor de Asistencia.csproj.CoreCompileInputs.cache
+E:\Archivos\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor de Asistencia.csproj.CopyComplete
+E:\Archivos\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor de Asistencia.exe
+E:\Archivos\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor de Asistencia.pdb
+F:\Cursos Youtube\C#\Gestor de Asistencia\Gestor de Asistencia\bin\Debug\Gestor de Asistencia.exe.config
+F:\Cursos Youtube\C#\Gestor de Asistencia\Gestor de Asistencia\bin\Debug\Gestor de Asistencia.exe
+F:\Cursos Youtube\C#\Gestor de Asistencia\Gestor de Asistencia\bin\Debug\Gestor de Asistencia.pdb
+F:\Cursos Youtube\C#\Gestor de Asistencia\Gestor de Asistencia\bin\Debug\Biblioteca.dll
+F:\Cursos Youtube\C#\Gestor de Asistencia\Gestor de Asistencia\bin\Debug\Biblioteca.pdb
+F:\Cursos Youtube\C#\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor_de_Asistencia.FrmGestorAsistencia.resources
+F:\Cursos Youtube\C#\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor_de_Asistencia.FrmGestorFeriados.resources
+F:\Cursos Youtube\C#\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor_de_Asistencia.FrmGestorIntegrantes.resources
+F:\Cursos Youtube\C#\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor_de_Asistencia.FrmNovedadesEmpleado.resources
+F:\Cursos Youtube\C#\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor_de_Asistencia.FrmSelectorDeFechas.resources
+F:\Cursos Youtube\C#\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor_de_Asistencia.Properties.Resources.resources
+F:\Cursos Youtube\C#\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor de Asistencia.csproj.GenerateResource.cache
+F:\Cursos Youtube\C#\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor de Asistencia.csproj.CoreCompileInputs.cache
+F:\Cursos Youtube\C#\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor de Asistencia.exe
+F:\Cursos Youtube\C#\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor de Asistencia.pdb
+F:\Cursos Youtube\C#\Gestor de Asistencia\Gestor de Asistencia\obj\Debug\Gestor de Asistencia.csproj.AssemblyReference.cache

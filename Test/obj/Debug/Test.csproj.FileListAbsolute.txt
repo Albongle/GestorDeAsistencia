@@ -1,0 +1,20 @@
+E:\Archivos\Gestor de Asistencia\Test\bin\Debug\Test.exe.config
+E:\Archivos\Gestor de Asistencia\Test\bin\Debug\Test.exe
+E:\Archivos\Gestor de Asistencia\Test\bin\Debug\Test.pdb
+E:\Archivos\Gestor de Asistencia\Test\bin\Debug\Biblioteca.dll
+E:\Archivos\Gestor de Asistencia\Test\bin\Debug\Biblioteca.pdb
+E:\Archivos\Gestor de Asistencia\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Archivos\Gestor de Asistencia\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Archivos\Gestor de Asistencia\Test\obj\Debug\Test.csproj.CopyComplete
+E:\Archivos\Gestor de Asistencia\Test\obj\Debug\Test.exe
+E:\Archivos\Gestor de Asistencia\Test\obj\Debug\Test.pdb
+F:\Cursos Youtube\C#\Gestor de Asistencia\Test\bin\Debug\Test.exe.config
+F:\Cursos Youtube\C#\Gestor de Asistencia\Test\bin\Debug\Test.exe
+F:\Cursos Youtube\C#\Gestor de Asistencia\Test\bin\Debug\Test.pdb
+F:\Cursos Youtube\C#\Gestor de Asistencia\Test\bin\Debug\Biblioteca.dll
+F:\Cursos Youtube\C#\Gestor de Asistencia\Test\bin\Debug\Biblioteca.pdb
+F:\Cursos Youtube\C#\Gestor de Asistencia\Test\obj\Debug\Test.csprojAssemblyReference.cache
+F:\Cursos Youtube\C#\Gestor de Asistencia\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\Cursos Youtube\C#\Gestor de Asistencia\Test\obj\Debug\Test.csproj.CopyComplete
+F:\Cursos Youtube\C#\Gestor de Asistencia\Test\obj\Debug\Test.exe
+F:\Cursos Youtube\C#\Gestor de Asistencia\Test\obj\Debug\Test.pdb
